@@ -96,7 +96,7 @@ function displayMenuItems(Items){
     </article>`;
     });
 
-    displayMenu = displayMenu.join("");
+displayMenu = displayMenu.join("");
 
     menuItems.innerHTML = displayMenu;
 }
